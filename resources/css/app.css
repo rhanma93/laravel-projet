@@ -29,7 +29,11 @@ body {
     display: flex;
     flex-direction: column;
 
-    background: url('http://projet-gamezone.test/images/goty.jpg') center center / cover no-repeat fixed !important;
+    background-image: url('/images/goty.jpg') !important;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
 
     color: #f1f1f1;
     font-family: Arial, sans-serif;
