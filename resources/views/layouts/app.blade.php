@@ -6,6 +6,7 @@
     <title>@yield('title', 'GameZone')</title>
     <meta name="description" content="Les actualités du jeu vidéo.">
     <link rel="stylesheet" href="{{ asset('css/gamezone.css') }}">
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body>
 
