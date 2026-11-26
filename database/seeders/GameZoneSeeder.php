@@ -27,7 +27,7 @@ class GameZoneSeeder extends Seeder
                 'title' => 'Comment choisir sa prochaine aventure vidéoludique',
                 'excerpt' => 'Quelques pistes pour trouver un jeu adapté à tes envies.',
                 'content' => "Voici un deuxième article de démonstration.\n\nLorem ipsum",
-                'image_url' => 'https://www.20minutes.fr/arts-stars/culture/4059981-20231101-paris-games-week-2023-jeux-video-independants-francais-veulent-renouveler-secteur',
+                'image_url' => 'https://static.fnac-static.com/multimedia/Images/FD/Comete/135576/CCP_IMG_1200x800/1778074.jpg',
             ],
             [
                 'title' => 'Le jeu indépendant à découvrir',
