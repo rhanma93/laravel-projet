@@ -3,7 +3,7 @@
 @section('title', 'GameZone - Accueil')
 
 @section('content')
-<h1>Bienvenue sur GameZone</h1>
+<h1>Bienvenue sur GameZone !</h1>
 <p>Retrouvez les dernières actualités du jeu vidéo.</p>
 
 <h2>Derniers articles</h2>
