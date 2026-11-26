@@ -60,3 +60,4 @@ php artisan db:seed --class=GameZoneSeeder
 4. Ajouter la validation et la modération avant publication.
 
 Les textes et images de démonstration sont fictifs. Remplace-les par tes propres contenus.
+
